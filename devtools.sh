@@ -10,7 +10,7 @@ echo "| |/ /  __/\ V /| | (_) | (_) | \__ \"
 echo "|___/ \___| \_/ \_/\___/ \___/|_|___/"
 echo 
 echo "==================== DevTools ===================="
-echo "1. Create User (Panel Pterodactyl) "
+echo "1. Create User for Panel Pterodactyl"
 echo "2. Under Construction"
 echo "3. Exit"
 echo "==================================================="
